@@ -18,6 +18,6 @@ Features as a Customer:\
  4.Menu provided.\
 \
 special features:\
- 1.extra delay effect for better presentation\
- 2.ecncrypted password while typing.\
- 3.Messages of tasks performed.\
+ _1.extra delay effect for better presentation\
+ _2.ecncrypted password while typing.\
+_3.Messages of tasks performed.
