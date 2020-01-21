@@ -4,8 +4,8 @@ Restaurant management system using C .
 Seperate interface for chef and  customer.
 chef's login is protected with a password.
 
-Features of chef:\n
-1.login/logout.
+Features of chef:\
+1.login/logout.\
 2.adding new dish.
 3.deleting a dish.
 4.Modify menu.
